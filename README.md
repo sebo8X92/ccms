@@ -1,5 +1,5 @@
-#ccms
-##charm content management system
+# ccms
+## charm content management system
 "ccms" is intended to become a quick-reacting cms with an intenseley
 intuitive and dynamic backend. At some point the system should reach
 the level of user friendliness deserving it's name.
